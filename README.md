@@ -26,7 +26,7 @@
 > Clone o projeto e acesse a pasta
 
 ```bash
-$ git clone https://github.com/eltonsantos/consuming-api.git && cd consuming-api
+$ git clone https://github.com/eryckdevops/ConsumindoAPI.git && cd consuming-api
 ```
 
 > Siga os passos abaixo
