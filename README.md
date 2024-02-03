@@ -89,7 +89,7 @@ $ npm run dev
 <table align="center">
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="">
         <img src="https://avatars.githubusercontent.com/u/109317442?v=4" width="160px;" alt="Erick Rodrigues"/><br>
         <sub>
           <b>Erick Rodrigues</b>
