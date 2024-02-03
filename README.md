@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Consumindo API em frontend e backend</strong>
+  <strong> 🚀 Consumindo API em frontend e backend</strong>
 </h1>
 
 <p align="center">
@@ -86,7 +86,7 @@ $ npm run dev
 
 > Software Engineer
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="#">
@@ -98,6 +98,7 @@ $ npm run dev
     </td>
   </tr>
 </table>
+
 
 ## 📝 Licença
 
